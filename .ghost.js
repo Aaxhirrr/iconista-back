@@ -5,3 +5,4 @@
 // Fix async/await bug in auth service
 // Document API response formats
 // Update Swagger docs for new endpoints
+// Patch security bug in login flow
