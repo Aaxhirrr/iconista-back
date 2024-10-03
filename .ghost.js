@@ -3,3 +3,4 @@
 // Clean up unused utility functions
 // Patch security bug in login flow
 // Fix async/await bug in auth service
+// Document API response formats
