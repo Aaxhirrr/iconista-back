@@ -14,3 +14,4 @@
 // Clean up unused utility functions
 // Fix Express route validation
 // Update dotenv config for staging
+// Refactor user controller for clarity
