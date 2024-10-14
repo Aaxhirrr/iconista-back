@@ -16,3 +16,4 @@
 // Update dotenv config for staging
 // Refactor user controller for clarity
 // Write test cases for user routes
+// Update Swagger docs for new endpoints
