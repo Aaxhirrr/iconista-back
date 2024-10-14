@@ -17,3 +17,4 @@
 // Refactor user controller for clarity
 // Write test cases for user routes
 // Update Swagger docs for new endpoints
+// Clean up unused utility functions
