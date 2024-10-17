@@ -22,3 +22,4 @@
 // Add error handling middleware
 // Update Swagger docs for new endpoints
 // Clean up unused utility functions
+// Document API response formats
