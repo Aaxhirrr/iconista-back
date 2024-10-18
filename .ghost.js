@@ -25,3 +25,4 @@
 // Document API response formats
 // Patch security bug in login flow
 // Clean up unused utility functions
+// Refactor user controller for clarity
