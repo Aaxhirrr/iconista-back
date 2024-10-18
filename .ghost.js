@@ -23,3 +23,4 @@
 // Update Swagger docs for new endpoints
 // Clean up unused utility functions
 // Document API response formats
+// Patch security bug in login flow
