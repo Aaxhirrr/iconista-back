@@ -29,3 +29,4 @@
 // Improve logging for API requests
 // Clean up unused utility functions
 // Add error handling middleware
+// Add auth middleware for session handling
