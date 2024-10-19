@@ -30,3 +30,4 @@
 // Clean up unused utility functions
 // Add error handling middleware
 // Add auth middleware for session handling
+// Refactor user controller for clarity
