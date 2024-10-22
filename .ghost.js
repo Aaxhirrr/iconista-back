@@ -32,3 +32,4 @@
 // Add auth middleware for session handling
 // Refactor user controller for clarity
 // Add auth middleware for session handling
+// Add auth middleware for session handling
