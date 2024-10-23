@@ -34,3 +34,4 @@
 // Add auth middleware for session handling
 // Add auth middleware for session handling
 // Clean up unused utility functions
+// Implement MongoDB query optimization
