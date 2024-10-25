@@ -39,3 +39,4 @@
 // Write test cases for user routes
 // Update dotenv config for staging
 // Add error handling middleware
+// Clean up unused utility functions
