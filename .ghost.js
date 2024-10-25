@@ -35,3 +35,4 @@
 // Add auth middleware for session handling
 // Clean up unused utility functions
 // Implement MongoDB query optimization
+// Update Swagger docs for new endpoints
