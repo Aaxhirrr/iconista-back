@@ -38,3 +38,4 @@
 // Update Swagger docs for new endpoints
 // Write test cases for user routes
 // Update dotenv config for staging
+// Add error handling middleware
