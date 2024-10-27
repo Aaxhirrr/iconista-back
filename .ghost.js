@@ -41,3 +41,4 @@
 // Add error handling middleware
 // Clean up unused utility functions
 // Implement MongoDB query optimization
+// Improve logging for API requests
