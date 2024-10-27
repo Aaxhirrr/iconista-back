@@ -40,3 +40,4 @@
 // Update dotenv config for staging
 // Add error handling middleware
 // Clean up unused utility functions
+// Implement MongoDB query optimization
