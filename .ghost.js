@@ -49,3 +49,4 @@
 // Update dotenv config for staging
 // Implement MongoDB query optimization
 // Add error handling middleware
+// Document API response formats
