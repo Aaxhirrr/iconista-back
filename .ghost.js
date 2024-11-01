@@ -52,3 +52,4 @@
 // Document API response formats
 // Add error handling middleware
 // Implement MongoDB query optimization
+// Clean up unused utility functions
