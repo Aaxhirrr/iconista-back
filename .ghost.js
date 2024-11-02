@@ -54,3 +54,4 @@
 // Implement MongoDB query optimization
 // Clean up unused utility functions
 // Update Swagger docs for new endpoints
+// Document API response formats
