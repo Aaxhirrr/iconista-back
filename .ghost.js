@@ -56,3 +56,4 @@
 // Update Swagger docs for new endpoints
 // Document API response formats
 // Fix Express route validation
+// Fix async/await bug in auth service
