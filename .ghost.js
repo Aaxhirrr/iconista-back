@@ -53,3 +53,4 @@
 // Add error handling middleware
 // Implement MongoDB query optimization
 // Clean up unused utility functions
+// Update Swagger docs for new endpoints
