@@ -59,3 +59,4 @@
 // Fix async/await bug in auth service
 // Implement MongoDB query optimization
 // Fix Express route validation
+// Add auth middleware for session handling
